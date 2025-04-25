@@ -1,1 +1,1 @@
-# boardgame-scraping
+# boardgame-scraping for RAG study
